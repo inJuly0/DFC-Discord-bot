@@ -15,7 +15,7 @@ client.login(token);
 
 const replyTable = {
     help: function () {
-        return `Following is a list of commands you can issue :\n \`help\`: get list of commands.`
+        return replies.help[0];
     },
     scold: function (msg) {
         const name = msg.mentions.members.first() || msg.member;

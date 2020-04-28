@@ -36,5 +36,8 @@
     "kuha balaka __name__",
     "yes ? __name__",
     "what you want ? __name__"
+  ],
+  "help": [
+    "Following is a list of commands you can issue:\n`help` : get list of all commands\n`doubt`: ask a doubt\n `speak`: make me talk\n `scold @user: scold a user.\n"
   ]
 }
