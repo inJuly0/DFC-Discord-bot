@@ -1,0 +1,40 @@
+{
+  "scold": [
+    "__name__ , Give me your phone. I will give it to your FA",
+    "What is this nonsense __name__ !?",
+    "You're not at all interested in my class, no ? __name__",
+    "__name__ !! Work out these problems !",
+    "__name__ come with me to my chamber.",
+    "How much did you score in mid terms ? __name__",
+    "__name__ Get out of my class. I will mark you absent for today.",
+    "__name__, you are marked absent for the next 5 classes.",
+    "why __name__ using phone, is this classroom or park ?",
+    "people like me spark joy where they go, people like __name__, *whenever* they go.",
+    "This is what you're taught in your school ? __name__",
+    "you have no manars at oll __name__"
+  ],
+  "speak": [
+    "Pls watch my bhedio and comment on my bhedio",
+    "I have completed your syllabus for 4th year. send me your assigments via a piegon",
+    "I will take class now. SP inform your class",
+    "Khuntia sir, please explain how this bot works to the students.",
+    "Physics is very important for your career. Don't take lightly.",
+    "Go through my notes of module 5. Syllabus is now completed",
+    "you have your extra classes at 9PM tommorow. Inform everyone in your class.",
+    "Submit your 1000 page assignment tommorow."
+  ],
+  "doubt": [
+    "ask your mom.",
+    "come to my doubt clearing class at 3AM",
+    "Derive Maxwell's euqation in diffonsial form",
+    "watch my bhedio. You will be able to understand.",
+    ""
+  ],
+  "noArg": [
+    "Kya bolti tu ? __name__",
+    "Han, mu acchi ethi. __name__",
+    "kuha balaka __name__",
+    "yes ? __name__",
+    "what you want ? __name__"
+  ]
+}
